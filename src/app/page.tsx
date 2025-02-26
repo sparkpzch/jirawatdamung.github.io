@@ -5,7 +5,7 @@ export default function Home() {
     <div className="flex flex-col items-center justify-center min-h-screen py-2">
       <main className="flex flex-col items-center justify-center w-full flex-1 px-20 text-center">
         <Image
-          src="/pictures/profile.png"
+          src="https://i.imgur.com/bQUclyB.jpg"
           alt="Profile Picture"
           width={150}
           height={150}
