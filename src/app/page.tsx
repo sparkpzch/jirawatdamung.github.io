@@ -91,7 +91,7 @@ export default function Home() {
       >
         <div className="mb-10">
           <Image
-            src="/pictures/profile.png"
+            src="https://i.imgur.com/WPFD1DW.jpg"
             alt="Profile Picture"
             width={80}
             height={80}
@@ -239,7 +239,7 @@ export default function Home() {
             <div className="mb-8 relative">
               <div className="absolute inset-0 rounded-full bg-gradient-to-r from-blue-500 to-purple-600 blur-xl opacity-50"></div>
               <Image
-                src="/pictures/profile.png"
+                src="https://i.imgur.com/WPFD1DW.jpg"
                 alt="Profile Picture"
                 width={150}
                 height={150}
