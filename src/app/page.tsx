@@ -277,10 +277,13 @@ export default function Home() {
             <div className="w-full max-w-md p-6 border border-white/10 rounded-xl backdrop-blur-sm bg-white/5 shadow-xl">
               <h2 className="text-2xl font-bold mb-4">About Me</h2>
               <p className="text-gray-300 text-left">
-                Im a passionate fullstack developer with expertise in building
-                modern web applications. I specialize in React, Next.js,
-                TypeScript, and Node.js. I enjoy creating elegant solutions that
-                deliver exceptional user experiences.
+                สวัสดีครับ ชื่อจิรวัฒน์ ดามัง หรือ เปรียว
+                ปัจจุบันเป็นผู้ช่วยนักวิจัยมหาวิทยาลัยกรุงเทพ ชั้นปีที่ 2
+                สาขาเกมและสื่อเชิงโต้ตอบ สนใจด้านการพัฒนาเว็บแอพพลิเคชั่น
+                และเว็บไซต์ มีความสามารถในการเขียนโปรแกรมด้วยภาษา Python,
+                JavaScript, HTML, CSS, TypeScript, .NET, Node, Lua, Dart และ
+                Database สามารถใช้ภาษาอังกฤษได้ดี สามารถใช้โปรแกรมต่างๆ เช่น
+                Adobe, Affinity, Davinci Resolve และโปรแกรมอื่นๆ
               </p>
             </div>
           </main>
@@ -296,7 +299,7 @@ export default function Home() {
               <div className="p-6 border border-white/10 rounded-xl backdrop-blur-sm bg-white/5 shadow-xl">
                 <h2 className="text-2xl font-bold mb-4">My Journey</h2>
                 <p className="text-gray-300">
-                  With over X years of experience in software development, Ive
+                  With over 3 years of experience in full-stack development, Ive
                   worked on a diverse range of projects from small startups to
                   enterprise applications. My passion for technology started
                   when I was young, and Ive been continuously learning and
@@ -349,10 +352,10 @@ export default function Home() {
                     </svg>
                     <div>
                       <span className="font-medium">
-                        Bachelor s Degree in Computer Science
+                        Undergraduate Degree in Computer Science
                       </span>
                       <p className="text-sm text-gray-400">
-                        University Name, 20XX-20XX
+                        Bangkok University, 2023-Present
                       </p>
                     </div>
                   </li>
@@ -372,11 +375,9 @@ export default function Home() {
                     </svg>
                     <div>
                       <span className="font-medium">
-                        AWS Certified Developer
+                        No Certified Developer
                       </span>
-                      <p className="text-sm text-gray-400">
-                        Amazon Web Services, 20XX
-                      </p>
+                      <p className="text-sm text-gray-400">2023-Present</p>
                     </div>
                   </li>
                 </ul>
@@ -434,7 +435,7 @@ export default function Home() {
                 <h3 className="text-xl font-bold mb-2">Mobile Development</h3>
                 <p className="text-gray-300">
                   Cross-platform mobile applications for iOS and Android using
-                  React Native.
+                  Flutter.
                 </p>
               </div>
 
@@ -583,9 +584,7 @@ export default function Home() {
                   </svg>
                 </div>
                 <h3 className="text-lg font-medium mb-1">Email</h3>
-                <p className="text-gray-400 text-sm">
-                  contact@jirawatdamung.com
-                </p>
+                <p className="text-gray-400 text-sm">sparkpzch@gmail.com</p>
               </div>
 
               <div className="p-4 border border-white/10 rounded-xl backdrop-blur-sm bg-white/5 shadow-xl flex flex-col items-center text-center">
@@ -605,7 +604,7 @@ export default function Home() {
                   </svg>
                 </div>
                 <h3 className="text-lg font-medium mb-1">Phone</h3>
-                <p className="text-gray-400 text-sm">+66 12 345 6789</p>
+                <p className="text-gray-400 text-sm">092 - 597 - 6004</p>
               </div>
 
               <div className="p-4 border border-white/10 rounded-xl backdrop-blur-sm bg-white/5 shadow-xl flex flex-col items-center text-center">
