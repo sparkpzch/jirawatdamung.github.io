@@ -311,7 +311,7 @@ export default function Home() {
                 <h2 className="text-2xl font-bold mb-4">Skills</h2>
                 <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
                   <div className="p-3 bg-white/10 rounded-lg text-center">
-                    React
+                    Flutter
                   </div>
                   <div className="p-3 bg-white/10 rounded-lg text-center">
                     Next.js
@@ -323,10 +323,37 @@ export default function Home() {
                     Node.js
                   </div>
                   <div className="p-3 bg-white/10 rounded-lg text-center">
-                    MongoDB
+                    MySQL
                   </div>
                   <div className="p-3 bg-white/10 rounded-lg text-center">
-                    AWS
+                    Unity
+                  </div>
+                  <div className="p-3 bg-white/10 rounded-lg text-center">
+                    Roblox Studio
+                  </div>
+                  <div className="p-3 bg-white/10 rounded-lg text-center">
+                    Unreal Engine
+                  </div>
+                  <div className="p-3 bg-white/10 rounded-lg text-center">
+                    Final Cut Pro
+                  </div>
+                  <div className="p-3 bg-white/10 rounded-lg text-center">
+                    Davinci Resolve
+                  </div>
+                  <div className="p-3 bg-white/10 rounded-lg text-center">
+                    Affinity
+                  </div>
+                  <div className="p-3 bg-white/10 rounded-lg text-center">
+                    Adobe
+                  </div>
+                  <div className="p-3 bg-white/10 rounded-lg text-center">
+                    Docker
+                  </div>
+                  <div className="p-3 bg-white/10 rounded-lg text-center">
+                    XCode
+                  </div>
+                  <div className="p-3 bg-white/10 rounded-lg text-center">
+                    AI Model
                   </div>
                 </div>
               </div>
