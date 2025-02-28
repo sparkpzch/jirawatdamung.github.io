@@ -236,14 +236,15 @@ export default function Home() {
       >
         {activeTab === "home" && (
           <main className="flex flex-col items-center justify-center w-full max-w-3xl px-6 py-12 text-center mx-auto min-h-screen">
-            <div className="mb-8 relative">
-              <div className="absolute inset-0 rounded-full bg-gradient-to-r from-blue-500 to-purple-600 blur-xl opacity-50"></div>
+            <div className="mb-8 relative w-[150px] h-[150px]">
+              <div className="absolute inset-0 rounded-full bg-gradient-to-r from-blue-500 to-purple-600 animate-pulse blur-xl opacity-70"></div>
               <Image
                 src="https://i.imgur.com/WPFD1DW.jpg"
                 alt="Profile Picture"
                 width={150}
                 height={150}
-                className="rounded-full border-4 border-white/20 relative z-10"
+                className="rounded-full border-4 border-blue-500/50 shadow-lg shadow-blue-500/30 object-cover h-full w-full relative z-10"
+                priority
               />
             </div>
 
