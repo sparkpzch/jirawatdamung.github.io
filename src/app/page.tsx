@@ -278,14 +278,13 @@ export default function Home() {
             <div className="w-full max-w-md p-6 border border-white/10 rounded-xl backdrop-blur-sm bg-white/5 shadow-xl">
               <h2 className="text-2xl font-bold mb-4 font-outfit">About Me</h2>
               <p className="text-gray-300 leading-relaxed font-outfit">
-                สวัสดีครับ ชื่อจิรวัฒน์ ดามัง หรือ เปรียว มหาวิทยาลัยกรุงเทพ
-                คณะเทคโนโลยีสารสนเทศและนวัตกรรม
-                ปัจจุบันเป็นนักศึกษาปริญญาตรีชั้นปีที่ 2
-                สาขาเกมและสื่อเชิงโต้ตอบ
-                และเป็นผู้ช่วยนักวิจัยให้กับมหาวิทยาลัยกรุงเทพ
-                มีความสนใจในการเขียนโปรแกรม การพัฒนาเว็บไซต์
-                และการสร้างเกมและสื่อต่าง ๆ
-                อีกทั้งยังมีความสนใจในการเรียนรู้สิ่งใหม่ ๆ อยู่ตลอดเวลา
+                Hello, Im Jirawat Damung, or Priew, from Bangkok University,
+                School of Information Technology and Innovation. Currently, Im a
+                second-year undergraduate student in Game and Interactive Media,
+                and work as a Research Assistant at Bangkok University. Im
+                passionate about programming, web development, and creating
+                games and various media. Im also always eager to learn new
+                things and expand my knowledge.
               </p>
             </div>
           </main>
