@@ -121,7 +121,7 @@ export default function Home() {
           <div className="relative">
             <div className="w-80 h-96 bg-gray-700 rounded-lg overflow-hidden">
               <Image
-                src="/pictures/profile.png"
+                src="https://github.com/sparkpzch/jirawatdamung.github.io/blob/main/public/pictures/profile.png"
                 alt="Profile"
                 width={320}
                 height={384}
@@ -190,7 +190,7 @@ export default function Home() {
                 }`}
               >
                 <Image
-                  src="/pictures/aboutme.png"
+                  src="https://github.com/sparkpzch/jirawatdamung.github.io/blob/main/public/pictures/aboutme.png"
                   alt="About Me"
                   width={600}
                   height={800}
