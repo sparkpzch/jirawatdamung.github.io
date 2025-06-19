@@ -739,19 +739,31 @@ export default function Home() {
           <div className="grid grid-cols-2 sm:flex sm:justify-center gap-3 sm:gap-6 lg:gap-8 mb-6 sm:mb-8 lg:mb-12">
             <a
               href="#"
-              className="text-orange-500 hover:text-orange-400 transition-colors text-sm sm:text-base text-center"
+              className="text-orange-500 hover:text-orange-400 transition-colors text-sm sm:text-base text-center cursor-pointer"
+              onClick={(e) => {
+                e.preventDefault();
+                window.scrollTo({ top: 0, behavior: "smooth" });
+              }}
             >
               Home
             </a>
             <a
               href="#skills"
-              className="text-gray-300 hover:text-white transition-colors text-sm sm:text-base text-center"
+              className="text-gray-300 hover:text-white transition-colors text-sm sm:text-base text-center cursor-pointer"
+              onClick={(e) => {
+                e.preventDefault();
+                smoothScrollTo("skills");
+              }}
             >
               Services
             </a>
             <a
               href="#about"
-              className="text-gray-300 hover:text-white transition-colors text-sm sm:text-base text-center"
+              className="text-gray-300 hover:text-white transition-colors text-sm sm:text-base text-center cursor-pointer"
+              onClick={(e) => {
+                e.preventDefault();
+                smoothScrollTo("about");
+              }}
             >
               About me
             </a>
